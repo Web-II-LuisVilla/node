@@ -1,0 +1,1 @@
+const array1 =['item1','item2','item3']
